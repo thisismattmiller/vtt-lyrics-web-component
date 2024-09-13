@@ -1,5 +1,7 @@
 # vtt-lyrics-web-component
 
+Check out https://thisismattmiller.com/post/lomax-whisper/ or https://thisismattmiller.github.io/lomax-michigan-whisper/ for a demo.
+
 ```
 npm install
 npm run dev
