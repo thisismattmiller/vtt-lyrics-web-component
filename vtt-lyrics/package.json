@@ -1,0 +1,19 @@
+{
+  "name": "vtt-lyrics",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "howler": "^2.2.3",
+    "vue": "^3.3.2",
+    "webvtt-parser": "^2.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.5"
+  }
+}
